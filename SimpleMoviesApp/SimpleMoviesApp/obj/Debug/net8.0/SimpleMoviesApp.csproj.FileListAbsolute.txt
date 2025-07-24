@@ -1,0 +1,14 @@
+D:\Training\Assignments\SimpleMoviesApp\SimpleMoviesApp\obj\Debug\net8.0\SimpleMoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Assignments\SimpleMoviesApp\SimpleMoviesApp\obj\Debug\net8.0\SimpleMoviesApp.AssemblyInfoInputs.cache
+D:\Training\Assignments\SimpleMoviesApp\SimpleMoviesApp\obj\Debug\net8.0\SimpleMoviesApp.AssemblyInfo.cs
+D:\Training\Assignments\SimpleMoviesApp\SimpleMoviesApp\obj\Debug\net8.0\SimpleMoviesApp.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\SimpleMoviesApp\SimpleMoviesApp\bin\Debug\net8.0\SimpleMoviesApp.exe
+D:\Training\Assignments\SimpleMoviesApp\SimpleMoviesApp\bin\Debug\net8.0\SimpleMoviesApp.deps.json
+D:\Training\Assignments\SimpleMoviesApp\SimpleMoviesApp\bin\Debug\net8.0\SimpleMoviesApp.runtimeconfig.json
+D:\Training\Assignments\SimpleMoviesApp\SimpleMoviesApp\bin\Debug\net8.0\SimpleMoviesApp.dll
+D:\Training\Assignments\SimpleMoviesApp\SimpleMoviesApp\bin\Debug\net8.0\SimpleMoviesApp.pdb
+D:\Training\Assignments\SimpleMoviesApp\SimpleMoviesApp\obj\Debug\net8.0\SimpleMoviesApp.dll
+D:\Training\Assignments\SimpleMoviesApp\SimpleMoviesApp\obj\Debug\net8.0\refint\SimpleMoviesApp.dll
+D:\Training\Assignments\SimpleMoviesApp\SimpleMoviesApp\obj\Debug\net8.0\SimpleMoviesApp.pdb
+D:\Training\Assignments\SimpleMoviesApp\SimpleMoviesApp\obj\Debug\net8.0\SimpleMoviesApp.genruntimeconfig.cache
+D:\Training\Assignments\SimpleMoviesApp\SimpleMoviesApp\obj\Debug\net8.0\ref\SimpleMoviesApp.dll
